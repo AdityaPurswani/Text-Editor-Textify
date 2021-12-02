@@ -1,0 +1,62 @@
+Soc - Security operation centre
+The server computer : Every computer in an organization is connected to a centralized system.
+
+Siem - Security incident event management
+	1. Splunk
+	2. IBM q Radar
+
+Splunk -> 
+1. Has AI capabilities
+2. More Features
+
+IBM q Radar
+1. Doesnot have AI capabilities
+
+
+IT Infrastructure:
+1. Firewall
+2. DOS Attack Protection
+3. DMZ - Zones for dos
+4. Router
+5. Switch
+6. Node
+
+
+SOC							IDS/IPS
+1. No perimeter							1. Incoming and Outgoing Traffic
+
+
+
+Keywords:
+1. Event
+2. Incident
+3. Alert/Threat
+
+1. Event
+i) 404 - Error  RCE - Remote Code Execution
+ii) 403 - Error - Bruteforcing/ Dos attack
+iii) 501 - Error - DOS Attack
+iv) 301 - URL Redirection
+
+CIS Benchmarking(Centre of Internet Security)
+
+3 types of benchmark
+1. in house ---> CIS made by the programmers of the company
+2. out source ----> Giving contract to other  Security companies
+3. hybrid
+
+SOC Team
+L1 -> Alert reporting to L2
+L2 -> Create the Alert (Rules)
+SOC Lead -> Generate report and participate in security onvestigations
+SOC manager
+
+TCP port - Meterpreter
+FTP port - search proFTPD version 1.3.3c
+access security
+access security grid
+use exploit/unix/ftp/proFTPD_133c_backdoor
+set rhosts ipaddress
+
+
+

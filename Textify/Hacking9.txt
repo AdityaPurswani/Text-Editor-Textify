@@ -1,0 +1,11 @@
+IOT Hacking
+In cyber security its known as internet of threats( automating devices with the help of a network)
+
+AWS IoT
+ARM mbed
+IoTeclipse.org Intel
+IBM Bluemix
+
+Shodan.io
+IDA pro -> to dump and decrypt aes encryption
+

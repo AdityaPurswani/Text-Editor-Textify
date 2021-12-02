@@ -1,0 +1,29 @@
+WIFI ATTACKS
+
+How to connect a wifi network as a physical device to your desktop (For putting it in the monitor mode)
+Convert into root
+--- airmon-ng start wlan0
+
+How to kill a connected wifi network from your desktop
+Convert into root
+--- airmon-ng check kill
+
+
+Encryption AND Decryption
+Create a File - echo "text" > name.txt
+To Check - cat filename
+
+ENCRYPTION
+openssl aes-256-cbc -in aditya.txt -out b.enc  (aes-256 means it is computing 0-255 combinations or 256 combinations)
+
+DECRYTION
+openssl aes-256-cbc -d -in b.enc -out new.txt 
+
+1. Encrypt a file with des algo??
+2. MASS Mailer Attack
+
+Image Encrypting (Parsing a text file into an image)
+steghide embed -cf index.jpeg -ef secret.txt
+
+
+

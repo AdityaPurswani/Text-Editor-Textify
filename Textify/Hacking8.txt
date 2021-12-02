@@ -1,0 +1,34 @@
+1. To get the metadata of an image
+apt-get install exiftool
+cd Downloads
+exiftool image name
+
+
+Audio Forensics
+Audacity
+Sonic Visualizer
+Coagula
+
+Ease Us Data Recovery
+Autopsy
+dftt.sourceforge.net -> Jpeg search text -> Zip file
+access data ftk Imager 
+
+mini tool shadow maker
+
+Image Forensics
+29a.ch/photo-forensics/#forensic-magnnifier
+
+nano
+save the file
+bruteforce with tool hydra
+hydra -L user -P pass ip_machine ssh
+sudo -l command to get root privelages
+cat .bash
+locate password-policy.sh
+cd into the located directory
+Passwprd = TodayIsGoodDay
+cat password-policy.sh
+sudo timedateetcl set-time '2015-11-20 16:14:50'
+
+

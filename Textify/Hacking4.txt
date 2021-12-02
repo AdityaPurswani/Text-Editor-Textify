@@ -1,0 +1,39 @@
+1. Write a c programs to get the output for sum of two numbers without using operator
+2. Turn off Key Loggers
+3. Install Keyloggers and if some mistake disable defender and antivirus
+ 
+Blazing8
+
+Script Kiddies Way
+Kon Boot for windows
+
+Hackers Way
+Write our own Code      
+
+Terminal Commands
+1. ping
+2.Tracert
+3. ipconfig
+4. nslookup
+
+Steps:
+1. Mastering Script Kiddies Way
+2. Scripting Commands
+3. Bug Bounty
+4. SANS Certification
+
+Virus
+1 set of instruction
+To create viruses - Beast Software
+
+
+Antivirus
+1. Library of viruses
+2. Signature verification - Checks your file and checks in the library , if hey are same then it will defend it and name it as virus
+
+7z e backup.zip
+
+
+
+
+

@@ -1,0 +1,39 @@
+CVE Details
+Protocols:
+1. HTTP
+2. HTTPS
+3. ARC
+
+
+
+
+Being Anonymoous
+1. Proxy.com
+2. vpn - virtual private network (proton vpn)
+3. tor browser - beacuse it hides our location and shows some where else location
+If we use google chrome or mozilla then ip address can be traced
+
+Metasploit
+1. Information Gathering
+2. Vulnerability Ananlysis
+3. Exploit
+4. Payload
+
+Line of Defence
+1. Firewall 
+2. Antivirus - Library of Viruses
+3. Honeyspot
+
+FireWall - 
+Implemented in 3 ways
+Port
+Protocol
+IPAddress
+
+HoneyPot = Dummy ports
+Government wantedly sets a trap with setting these dummy ports to catch the attackers because if somebody enters in this the gov will get there info
+
+DOS Attack - Artificially creating high traffic is known as dos attack
+Denial of Services
+
+

@@ -1,0 +1,2 @@
+1 execute honeypot on port 443--pentbox
+2 deploy firewall with accept rules to multiple ports --tcp and --http using ip tables
